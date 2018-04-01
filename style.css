@@ -8,6 +8,7 @@ h1   {
   background-color: #5EB8E3;
   color: blue;
   font-family: Helvetica;
+  border: 5px red solid;
 }
 
 p    {
