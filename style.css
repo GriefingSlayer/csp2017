@@ -1,5 +1,7 @@
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lobster" />
-<style>
+
+ body{
+	 background-color: powderblue;}
  h1 {
 	font-family: Lobster;
 	font-size: 24px;
@@ -7,6 +9,7 @@
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 26.4px;
+        color: blue;
 }
 h3 {
 	font-family: Lobster;
@@ -23,6 +26,7 @@ p {
 	font-variant: normal;
 	font-weight: 400;
 	line-height: 20px;
+	color: red;
 }
 blockquote {
 	font-family: Lobster;
@@ -46,11 +50,3 @@ font-family: myFancyFont;
 src: url('myFancyFont.ttf'),
 url('myFancyFont.eot');
 }
-</style>
-
-  <style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
-    
