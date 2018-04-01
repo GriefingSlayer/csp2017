@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lobster" />
-
+<style>
  body{
 	 background-color: powderblue;}
  h1 {
@@ -50,3 +50,4 @@ font-family: myFancyFont;
 src: url('myFancyFont.ttf'),
 url('myFancyFont.eot');
 }
+<style/>
