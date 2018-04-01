@@ -7,10 +7,6 @@ body {
 h1   {
   background-color: #5EB8E3;
   color: blue;
-  border-top: 5px #5E7CE3;
-  border-rigt: 5px #5E7CE3;
-  border-bottom: 5px #5E7CE3;
-  border-left: 5px #5E7CE3;
   font-family: Helvetica;
 }
 
